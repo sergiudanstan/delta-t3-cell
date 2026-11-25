@@ -1,0 +1,14 @@
+{
+  "name": "delta-t3-cell",
+  "version": "0.1.0",
+  "private": true,
+  "description": "Browser digital twin of a delta robot + Epson T3 SCARA pick, inspect and palletize cell",
+  "license": "MIT",
+  "type": "module",
+  "scripts": {
+    "test": "node tests/smoke.mjs"
+  },
+  "devDependencies": {
+    "playwright-core": "1.65.0"
+  }
+}
