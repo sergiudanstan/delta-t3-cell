@@ -1,3 +1,6 @@
+> **Archived; superseded by praline-cell** → <https://github.com/sergiudanstan/praline-cell> · <https://sergiudanstan.github.io/praline-cell/> (and praline-cell-pro · <https://sergiudanstan.github.io/praline-cell-pro/>)
+> The single-T3 palletizing variant (one delta, one T3, shared buffer nest, 2×4 pallet) is kept here as an archived reference.
+
 # Delta + T3 pick cell
 
 [![CI](https://github.com/sergiudanstan/delta-t3-cell/actions/workflows/ci.yml/badge.svg)](https://github.com/sergiudanstan/delta-t3-cell/actions/workflows/ci.yml)
